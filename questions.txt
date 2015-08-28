@@ -1,0 +1,2 @@
+Spørgsmål 2: i stedet for at returnere dataen igennem metoden, bliver der givet beskedtil observers om at data'en
+er ændret og der nu kan tages handling
